@@ -1,4 +1,3 @@
-# Lightning-Web-Components-Demo
 # Modern Quote and Invoice management in Salesforce
 
 Add products grouped under various platforms as quote line items. Perform front-end manipulation that directly affect the related items in real-time. 
